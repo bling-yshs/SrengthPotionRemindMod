@@ -1,0 +1,2 @@
+# SrengthPotionRemindMod
+在一定范围内检测到力量药水时发出提醒
