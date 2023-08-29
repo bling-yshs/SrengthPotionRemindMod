@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.yshs.strengthpotionremind.mixin",
+  "refmap": "refmap.pr.json",
+  "mixins": [],
+  "client": [
+    "MixinEntityLivingBase"
+  ],
+  "server": []
+}
